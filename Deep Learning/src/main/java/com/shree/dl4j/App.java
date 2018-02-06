@@ -1,4 +1,4 @@
-package com.shree.test;
+package com.shree.dl4j;
 
 /**
  * Hello world!

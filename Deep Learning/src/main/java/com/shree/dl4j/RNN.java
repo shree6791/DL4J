@@ -1,4 +1,4 @@
-package com.shree.test;
+package com.shree.dl4j;
 
 import org.deeplearning4j.nn.api.OptimizationAlgorithm;
 import org.deeplearning4j.nn.conf.MultiLayerConfiguration;

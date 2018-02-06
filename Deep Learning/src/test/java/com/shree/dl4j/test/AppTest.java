@@ -1,4 +1,4 @@
-package com.shree.test;
+package com.shree.dl4j.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
